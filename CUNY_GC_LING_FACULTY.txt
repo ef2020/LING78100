@@ -1,0 +1,50 @@
+Samer Al Khatib: Semantics
+Jason Bishop: phonetics and laboratory phonology, prosody and intonation, psycholinguistics, speech perception, information structure, and sentence processing
+Juliette Blevins: Phonology, Phonetics, Historical linguistics and language change, documentation of endangered languages, Austronesian languages, Australian Aboriginal languages, Native American languages
+Dianne C. Bradley: Human sentence processing, phonology, bilingualism, L1 acquisition
+Martin Chodorow: computational linguistics (corpus-based statistical approaches), human sentence processing
+Cecelia Cutler: sociolinguistics, language and identity, youth language and hip hop culture, general linguistics
+Joseph C Davis: Columbia School linguistics, Italian grammar, English grammar and education, Linguistics theory and methodology
+José del Valle: Linguistics ideologies, language policy, Glottopolitical history of Spain and Latin America
+Eva Fernández: Human sentence processing, bilingualism, second language acquisition, instructional technology
+Elena Filatova: Areas of Interest: Computational Linguistics, Text Mining
+Matthew Garley: Sociolinguistics, Corpus Linguistics, Language Contact, Historical Linguistics, Youth Culture, Linguistics of Hip Hop, Computer-Mediated Communication
+Alberta Gatti: Applied Linguistics, Language Education, Literacy Development of Heritage Language Learners, Literature of the Sixteenth Century Spain.
+Kyle Gorman: Computational linguistics, natural language processing, phonology, sociolinguistics
+Bill Haddican: Language Change, Sociolinguistics, Syntax
+Christina Hagedorn: Phonetics, Articulatory Phonology, Laboratory Phonology
+Alan Huffman: Semantics of morphemes and word order; grammar as theory; historical linguistics and dialectology; ESL
+Jason Kandybowicz: Syntactic theory, syntax-phonology interface, field linguistics and language documentation, African linguistics
+Daniel Kaufman: Morphology, syntax, phonology, language documentation
+Rebecca (Rivka) Levitan: Computational Linguistics, Natural Language Processing, Sociolinguistics, Spoken Language Processing, Dialogue
+Miki Makihara: Linguistic anthropology, sociolinguistics, anthropology; ethnography of speaking, discourse analysis, political economy of language, language ideology, language contact, bilingualism, ethnicity; Polynesia, Pacific
+Michael Mandel: computational linguistics, noise robust speech processing, psychoacoustics of speech perception, phonetics
+Gita Martohardjono: Second language acquisition, bilingualism and biliteracy, “heritage” and minority language studies
+William McClure: Japanese language and linguistics, semantics, syntax
+Stephen Neale: semantics, logic, pragmatics, anaphora, linguistics and law
+Michael Newman: Sociolinguistics, variationist and language attitudes and applied linguistics, particularly literacy theory
+Jonathan Nissenbaum: Syntax, Semantics
+Loraine K. Obler: Neurolinguistics, bilingualism, language in aging and dementia dyslexia
+Sandeep Prasada: Lexical and Conceptual representation and development
+Alla Rozovskaya: Second Language Acquisition, Grammar Correction, Machine Learning Methods for Natural Language Processing, Natural Language Processing for Educational Applications, Noisy Data
+William Sakas: Psychocomputational models of first language acquisition
+Irina Sekerina: Sentence processing, eye-tracking, bilingualism, Slavic and Russian linguistics and psycholinguistics, language acquisition.
+Valerie Shafer: Speech perception in SLA, Morphosyntactic info. in acquiring language, Brain development and language acquisition, Auditory processing and language learning
+Nancy Stern: Functionalist linguistics, bilingualism, language and education
+Christina Tortora: Syntactic theory, syntactic variation, Italian dialects, varieties of English, parsed corpora of vernacular speech
+Robert M. Vago: phonological theory, moraic structure and vowel harmony within the framework of optimality theory, first language attrition
+Virginia Valian: First language acquisition, innateness and learnability, computational corpus analysis, bilingualism
+Douglas Whalen: Speech Perception and Production, endangered languages
+Suzanne V.H. van der Feest: First Language Acquisition, Phonology and Phonetics, Psycholinguistics, Speech Perception and Production
+Susan Fischer: Sign Language, Typology, Morphosyntax, Psycholinguistics
+Andrew Rosenberg: Computational Linguistics
+Nava Shaked: Natural Language Processing, AI, Computational Linguistics, Multimodal Human Machine Interaction Systems, Multimodal Architectures and Applications, Speech Processing Systems
+Charles E. Cairns: phonology and the phonology/phonetics and phonology/morphology interfaces
+Helen Smith Cairns: L1 acquisition, learnability, human sentence processing
+Robert W. Fiengo: Philosophy of Language, Pragmatics, Semantics, Syntax.
+Janet Dean Fodor: Human sentence processing, learnability theory and L1 acquisition
+Alexander Orenstein: Philosophy of language, semantics, logic
+Ricardo Otheguy: sociolinguistics, language contact, functional linguistics
+David Rosenthal: Philosophy of mind, philosophy of language, cognitive science, philosophy of psychology
+Arthur Spears: Linguistic anthropology, sociolinguistics, pidgins/creoles and language contact, grammatical analysis
+Virginia Teller: Cognitive and computational models of Clinical cognition and emotions; machine translation; computational linguistics; natural language processing; articial intelligence
