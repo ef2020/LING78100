@@ -1,0 +1,311 @@
+
+<head><title>Popular Baby Names</title>
+<meta name="dc.language" scheme="ISO639-2" content="eng">
+<meta name="dc.creator" content="OACT">
+<meta name="lead_content_manager" content="sckunkel">
+<meta name="coder" content="jlkunkel">
+<meta name="dc.date.reviewed" scheme="ISO8601" content="2015-02-12">
+<!-- Input: year=2019, top=50, number=n -->
+</head>
+<body bgcolor="#ffffff" text="#000000" topmargin="1" leftmargin="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="1">
+<tbody>
+  <tr valign="middle"> 
+   <td align="left" width="25%">
+		<a href="http://www.ssa.gov"><img src="../OACT/templateimages/ssalogo.png" border="0"></a></td>
+   <th><h1>Popular Names in 2019</h1></th>
+  </tr>
+  <tr bgcolor="#333366"><td colspan="2" height="1"></td></tr>
+</tbody></table>
+<script type="text/javascript" src="../OACT/babynames/chkinput.js"></script>
+<table width="100%" border="0" cellspacing="0" cellpadding="4" summary="formatting">
+  <tr valign="top"> 
+    <td width="25%" bgcolor="#eeeeee">
+		<a href="../OACT/babynames/index.html">Popular baby names</a><p>
+      <a href="../OACT/babynames/background.html">Background information</a>
+      <p><br />
+      &nbsp; Select another <label for="yob">year of birth</label>?<br />      
+      <form name="popnames" method="post" action="/cgi-bin/popularnames.cgi"
+       onSubmit="return submitIt();">
+      &nbsp; <input type="text" name="year" id="yob" size="4" value="2019">
+      <input type="hidden" name="top" value="50">
+      <input type="hidden" name="number" value="n">
+      &nbsp; <input type="submit" value="   Go  "></form>
+    </td>
+    <td>
+<p align="center">
+<table width="72%" border="1" bordercolor="#aaaabb"
+ cellpadding="2" cellspacing="0" summary="Popularity for top 50"><caption><b>Popularity in 2019</b></caption>
+<tr align="center" valign="bottom">
+  <th scope="col" width="12%" bgcolor="#eeeeee">Rank</th>
+  <th scope="col" width="22%" bgcolor="#99ccff">Male name</th>
+<th scope="col" width="22%" bgcolor="#99ccff">Number of<br /> males</th>
+<th scope="col" width="22%" bgcolor="pink">Female name</th>
+<th scope="col" width="22%" bgcolor="pink">Number of<br /> females</th></tr>
+<tr align="right">
+ <td>1</td> <td>Liam</td><td>20,502</td>
+ <td>Olivia</td>
+<td>18,451</td>
+</tr>
+<tr align="right">
+ <td>2</td> <td>Noah</td><td>19,048</td>
+ <td>Emma</td>
+<td>17,102</td>
+</tr>
+<tr align="right">
+ <td>3</td> <td>Oliver</td><td>13,891</td>
+ <td>Ava</td>
+<td>14,440</td>
+</tr>
+<tr align="right">
+ <td>4</td> <td>William</td><td>13,542</td>
+ <td>Sophia</td>
+<td>13,714</td>
+</tr>
+<tr align="right">
+ <td>5</td> <td>Elijah</td><td>13,300</td>
+ <td>Isabella</td>
+<td>13,306</td>
+</tr>
+<tr align="right">
+ <td>6</td> <td>James</td><td>13,087</td>
+ <td>Charlotte</td>
+<td>13,138</td>
+</tr>
+<tr align="right">
+ <td>7</td> <td>Benjamin</td><td>12,942</td>
+ <td>Amelia</td>
+<td>12,862</td>
+</tr>
+<tr align="right">
+ <td>8</td> <td>Lucas</td><td>12,412</td>
+ <td>Mia</td>
+<td>12,414</td>
+</tr>
+<tr align="right">
+ <td>9</td> <td>Mason</td><td>11,408</td>
+ <td>Harper</td>
+<td>10,442</td>
+</tr>
+<tr align="right">
+ <td>10</td> <td>Ethan</td><td>11,241</td>
+ <td>Evelyn</td>
+<td>10,392</td>
+</tr>
+<tr align="right">
+ <td>11</td> <td>Alexander</td><td>11,230</td>
+ <td>Abigail</td>
+<td>9,106</td>
+</tr>
+<tr align="right">
+ <td>12</td> <td>Henry</td><td>10,704</td>
+ <td>Emily</td>
+<td>8,213</td>
+</tr>
+<tr align="right">
+ <td>13</td> <td>Jacob</td><td>10,679</td>
+ <td>Ella</td>
+<td>8,079</td>
+</tr>
+<tr align="right">
+ <td>14</td> <td>Michael</td><td>10,514</td>
+ <td>Elizabeth</td>
+<td>7,844</td>
+</tr>
+<tr align="right">
+ <td>15</td> <td>Daniel</td><td>10,504</td>
+ <td>Camila</td>
+<td>7,809</td>
+</tr>
+<tr align="right">
+ <td>16</td> <td>Logan</td><td>10,490</td>
+ <td>Luna</td>
+<td>7,755</td>
+</tr>
+<tr align="right">
+ <td>17</td> <td>Jackson</td><td>10,102</td>
+ <td>Sofia</td>
+<td>7,355</td>
+</tr>
+<tr align="right">
+ <td>18</td> <td>Sebastian</td><td>9,828</td>
+ <td>Avery</td>
+<td>7,311</td>
+</tr>
+<tr align="right">
+ <td>19</td> <td>Jack</td><td>9,349</td>
+ <td>Mila</td>
+<td>7,309</td>
+</tr>
+<tr align="right">
+ <td>20</td> <td>Aiden</td><td>9,326</td>
+ <td>Aria</td>
+<td>7,072</td>
+</tr>
+<tr align="right">
+ <td>21</td> <td>Owen</td><td>9,302</td>
+ <td>Scarlett</td>
+<td>7,044</td>
+</tr>
+<tr align="right">
+ <td>22</td> <td>Samuel</td><td>9,237</td>
+ <td>Penelope</td>
+<td>6,697</td>
+</tr>
+<tr align="right">
+ <td>23</td> <td>Matthew</td><td>9,199</td>
+ <td>Layla</td>
+<td>6,478</td>
+</tr>
+<tr align="right">
+ <td>24</td> <td>Joseph</td><td>9,058</td>
+ <td>Chloe</td>
+<td>6,361</td>
+</tr>
+<tr align="right">
+ <td>25</td> <td>Levi</td><td>8,973</td>
+ <td>Victoria</td>
+<td>6,344</td>
+</tr>
+<tr align="right">
+ <td>26</td> <td>Mateo</td><td>8,962</td>
+ <td>Madison</td>
+<td>6,269</td>
+</tr>
+<tr align="right">
+ <td>27</td> <td>David</td><td>8,896</td>
+ <td>Eleanor</td>
+<td>6,164</td>
+</tr>
+<tr align="right">
+ <td>28</td> <td>John</td><td>8,779</td>
+ <td>Grace</td>
+<td>6,062</td>
+</tr>
+<tr align="right">
+ <td>29</td> <td>Wyatt</td><td>8,772</td>
+ <td>Nora</td>
+<td>5,899</td>
+</tr>
+<tr align="right">
+ <td>30</td> <td>Carter</td><td>8,631</td>
+ <td>Riley</td>
+<td>5,676</td>
+</tr>
+<tr align="right">
+ <td>31</td> <td>Julian</td><td>8,401</td>
+ <td>Zoey</td>
+<td>5,650</td>
+</tr>
+<tr align="right">
+ <td>32</td> <td>Luke</td><td>8,375</td>
+ <td>Hannah</td>
+<td>5,586</td>
+</tr>
+<tr align="right">
+ <td>33</td> <td>Grayson</td><td>8,237</td>
+ <td>Hazel</td>
+<td>5,431</td>
+</tr>
+<tr align="right">
+ <td>34</td> <td>Isaac</td><td>8,148</td>
+ <td>Lily</td>
+<td>5,419</td>
+</tr>
+<tr align="right">
+ <td>35</td> <td>Jayden</td><td>7,903</td>
+ <td>Ellie</td>
+<td>5,404</td>
+</tr>
+<tr align="right">
+ <td>36</td> <td>Theodore</td><td>7,839</td>
+ <td>Violet</td>
+<td>5,386</td>
+</tr>
+<tr align="right">
+ <td>37</td> <td>Gabriel</td><td>7,678</td>
+ <td>Lillian</td>
+<td>5,092</td>
+</tr>
+<tr align="right">
+ <td>38</td> <td>Anthony</td><td>7,669</td>
+ <td>Zoe</td>
+<td>5,034</td>
+</tr>
+<tr align="right">
+ <td>39</td> <td>Dylan</td><td>7,514</td>
+ <td>Stella</td>
+<td>4,965</td>
+</tr>
+<tr align="right">
+ <td>40</td> <td>Leo</td><td>7,454</td>
+ <td>Aurora</td>
+<td>4,952</td>
+</tr>
+<tr align="right">
+ <td>41</td> <td>Lincoln</td><td>7,432</td>
+ <td>Natalie</td>
+<td>4,782</td>
+</tr>
+<tr align="right">
+ <td>42</td> <td>Jaxon</td><td>7,221</td>
+ <td>Emilia</td>
+<td>4,751</td>
+</tr>
+<tr align="right">
+ <td>43</td> <td>Asher</td><td>6,984</td>
+ <td>Everly</td>
+<td>4,751</td>
+</tr>
+<tr align="right">
+ <td>44</td> <td>Christopher</td><td>6,960</td>
+ <td>Leah</td>
+<td>4,739</td>
+</tr>
+<tr align="right">
+ <td>45</td> <td>Josiah</td><td>6,767</td>
+ <td>Aubrey</td>
+<td>4,570</td>
+</tr>
+<tr align="right">
+ <td>46</td> <td>Andrew</td><td>6,757</td>
+ <td>Willow</td>
+<td>4,566</td>
+</tr>
+<tr align="right">
+ <td>47</td> <td>Thomas</td><td>6,612</td>
+ <td>Addison</td>
+<td>4,473</td>
+</tr>
+<tr align="right">
+ <td>48</td> <td>Joshua</td><td>6,574</td>
+ <td>Lucy</td>
+<td>4,444</td>
+</tr>
+<tr align="right">
+ <td>49</td> <td>Ezra</td><td>6,489</td>
+ <td>Audrey</td>
+<td>4,430</td>
+</tr>
+<tr align="right">
+ <td>50</td> <td>Hudson</td><td>6,462</td>
+ <td>Bella</td>
+<td>4,354</td>
+</tr>
+<tr><td colspan="5"><small>Note: Rank 1 is the most popular,
+rank 2 is the next most popular, and so forth. <p>All names are from Social Security card applications
+              for births that occurred in the United States.
+</table></p>
+</td></tr></table>
+<table width="100%" border="0" cellpadding="1" cellspacing="0">
+  <tr bgcolor="#333366"><td height="1" colspan="2"></td></tr>
+  <tr>
+    <td width="26%" valign="middle">&nbsp;</td>
+    <td valign="top"><small>
+       <a href="http://www.ssa.gov/privacy.html">Privacy Policy</a>&nbsp;
+     | <a href="http://www.ssa.gov/websitepolicies.htm">Website Policies
+        &amp; Other Important Information</a>&nbsp;
+     | <a href="http://www.ssa.gov/sitemap.htm">Site Map</a></small></td>
+  </tr>
+</table>
+</body></html>
